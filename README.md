@@ -36,7 +36,7 @@ npm run dev
 
 Referneces : 
 
-https://neon.tech/
-https://www.npmjs.com/package/pg
-https://projects.100xdevs.com/tracks/YOSAherHkqWXhOdlE4yE/sql-1
-https://node-postgres.com/
+* https://neon.tech/
+* https://www.npmjs.com/package/pg
+* https://projects.100xdevs.com/tracks/YOSAherHkqWXhOdlE4yE/sql-1
+* https://node-postgres.com/
