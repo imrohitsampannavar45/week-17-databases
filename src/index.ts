@@ -13,7 +13,7 @@ pgClient.connect();
 //     port: 5432,
 //     database: 'neondb',
 //     user: 'neondb_owner',
-//     password: 'MEnI3GlkN1Ze',
+//     password: 'your-password-',
 //     ssl: true
 // })
 
