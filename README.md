@@ -26,3 +26,8 @@ and also install express
 ```sh
 npm install --save-dev @types/express
 ```
+
+adn run the server 
+```sh
+npm run dev
+```
